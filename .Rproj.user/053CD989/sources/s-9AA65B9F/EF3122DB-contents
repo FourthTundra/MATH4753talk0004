@@ -1,0 +1,10 @@
+importFrom("graphics", "abline")
+importFrom("stats", "lm")
+importFrom("grDevices", "rainbow")
+importFrom("graphics", "barplot")
+importFrom("graphics", "curve", "polygon")
+importFrom("stats", "dnorm", "pnorm")
+importFrom("stats", "filter")
+importFrom("utils", "write.csv")
+
+exportPattern("^[[:alpha:]]+")
